@@ -1,0 +1,30 @@
+body{
+
+    background-color: rgb(166, 226, 247);
+}
+
+div{
+    background-color: white;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+img{
+    border-radius: 50%;
+    margin-bottom: 12px;
+    margin-right: 50px;
+    float: left;
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(136, 136, 243);
+}
+
+h2{
+    color: rgb(139, 193, 211);
+    margin-bottom: 12px;
+}
+
